@@ -63,3 +63,11 @@ footer {
     width: 100%;
     bottom: 0;
 }
+.job {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
